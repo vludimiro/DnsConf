@@ -1,8 +1,8 @@
-google.com
-googleapis.com
-gstatic.com
-googleusercontent.com
-googlevideo.com
-ytimg.com
-ggpht.com
-gvt1.com
+62.133.62.97 google.com
+62.133.62.97 googleapis.com
+62.133.62.97 gstatic.com
+62.133.62.97 googleusercontent.com
+62.133.62.97 googlevideo.com
+62.133.62.97 ytimg.com
+62.133.62.97 ggpht.com
+62.133.62.97 gvt1.com
