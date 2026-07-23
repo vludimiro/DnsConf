@@ -6,3 +6,12 @@
 62.133.62.97 ytimg.com
 62.133.62.97 ggpht.com
 62.133.62.97 gvt1.com
+62.133.62.97 googleusercontent.com
+62.133.62.97 lh3.googleusercontent.com
+62.133.62.97 lh4.googleusercontent.com
+62.133.62.97 lh5.googleusercontent.com
+62.133.62.97 lh6.googleusercontent.com
+62.133.62.97 googleapis.com
+62.133.62.97 upload.googleapis.com
+62.133.62.97 storage.googleapis.com
+62.133.62.97 content-push.googleapis.com
